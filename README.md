@@ -1,2 +1,1 @@
-# Grafika3d
-Grafika 3d i animacja komputerowa - kółko
+Wkradł się jakiś błą do pliku, ponieważ nie potrafi on wytworzyć video. Jeżeli otworzę stary projekt (gdzie wyrenderowałem animację) wszystko działa jak należy.
